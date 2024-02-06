@@ -29,6 +29,7 @@ pip install -r requirements.txt
 ```bash
 gradio app.py
 ```
+5. Open the local URL in the browser.
 
 ## Acknowledgment
 Our code is developed based on [SPMPGAN](https://github.com/WuyangLuo/SPMPGAN/tree/main) and [SPADE](https://github.com/NVlabs/SPADE).
