@@ -29,3 +29,6 @@ pip install -r requirements.txt
 ```bash
 gradio app.py
 ```
+
+## Acknowledgment
+Our code is developed based on [SPMPGAN](https://github.com/WuyangLuo/SPMPGAN/tree/main) and [SPADE](https://github.com/NVlabs/SPADE).
