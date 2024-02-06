@@ -14,9 +14,7 @@ Majority of the previous methods that are proposed for this task try to encode t
 
 In this work, we propose a framework that can encode visible and partially visible objects with a novel mechanism to achieve consistency in the style encoding and final generations. We extensively compare with previous conditional image generation and semantic image editing algorithms. Our extensive experiments show that our method significantly improves over the state-of-the-arts. Our method not only achieves better quantitative results but also provides diverse results.
 
-## Testing
-
-# Gradio Demo on Local Machine
+## Gradio Demo on Local Machine
 By following the steps below, you can run the Gradio demo on your local machine.
 
 1. Download model weights from the [link](https://drive.google.com/drive/folders/1aB1rkcAWwR2bw0BGac41a2BWg2W8PSiB?usp=share_link)
