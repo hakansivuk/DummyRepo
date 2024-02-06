@@ -17,7 +17,7 @@ In this work, we propose a framework that can encode visible and partially visib
 ## Gradio Demo on Local Machine
 By following the steps below, you can run the Gradio demo on your local machine.
 
-1. Download model weights from the [link](https://drive.google.com/drive/folders/1aB1rkcAWwR2bw0BGac41a2BWg2W8PSiB?usp=share_link)
+1. Download model weights from the [link](https://drive.google.com/drive/folders/1aB1rkcAWwR2bw0BGac41a2BWg2W8PSiB?usp=sharing).
 2. Put style_codes.pt and best.pth under the "checkpoints" directory.
 3. Install dependencies 
 ```bash
